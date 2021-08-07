@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## WCoursera Promi Course
 
 You can use the [editor on GitHub](https://github.com/SM-Saumik-Shahriyer-Promi/Coursera-Promi/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
